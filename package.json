@@ -1,0 +1,23 @@
+{
+  "name": "projcovid19",
+  "version": "1.0.0",
+  "description": "Pagal",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohammed19umer11/ProjCovid19.git"
+  },
+  "keywords": [],
+  "author": "Umer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohammed19umer11/ProjCovid19/issues"
+  },
+  "homepage": "https://github.com/mohammed19umer11/ProjCovid19#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
