@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/mohammed19umer11/ProjCovid19#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   }
 }
